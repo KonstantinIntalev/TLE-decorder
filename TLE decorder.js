@@ -56,4 +56,4 @@ function rTLE(TLE) {
     return {Aname:n, tTLE:tTLE, i:i, q:q, e:e, w:w, M:M, v:v, a:A, Pe:P, Ap:A};
     } 
 // The output is an object with the Name of the apparatus, epoch, inclination, right ascent of the ascending node, eccentricity, perigee argument, average anomaly and average motion    
-// The epoch is already in Moscow time!!!!!!!1
+// The epoch is already in Moscow time!!!!!!!
